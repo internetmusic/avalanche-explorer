@@ -3,11 +3,11 @@
         <div class="powered_by">
             <div class="header">
                 <img src="@/assets/ava_logo_white.png" />
-                <h4>Avalanche Explorer</h4>
+                <h4>NIM Explorer</h4>
             </div>
             <p class="avalanche_desc">
-                Avalanche Explorer is an analytics tool that enables people to
-                search the Avalanche blockchain for transactions, addresses, and
+                NIM Explorer is an analytics tool that enables people to
+                search the CopyrightChains for transactions, addresses, and
                 other platform activities.
             </p>
             <img class="yeti" src="@/assets/yeti_footer.png" />
@@ -25,7 +25,7 @@
         </div>
         <div class="list">
             <h4>Social</h4>
-            <a href="https://twitter.com/avalancheavax" target="_blank">
+            <a href="https://twitter.com/copyrightcoins" target="_blank">
                 <fa :icon="['fab', 'twitter']"></fa>Twitter
             </a>
             <a href="https://chat.avax.network" target="_blank">
